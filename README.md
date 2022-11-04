@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tobiasperel" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/74215065?s=400&u=0d0357ee9457d5908d399d2a7f77e6c0c1ee5f06&v=4)"  />
 
 ###
 
