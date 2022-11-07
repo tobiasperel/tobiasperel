@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/tobiasperel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
- <a href="https://www.instagram.com/tobiasperel/" target="_blank">
+ <a href="discordapp.com/users/520052464033071126" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://mail.google.com/mail/pereltobias" target="_blank">
